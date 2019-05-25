@@ -1,0 +1,116 @@
+.navbar-light {
+  color: rgb(0, 0, 0);
+}
+
+.bg-light {
+  background-color: rgb(255, 255, 255) !important;
+}
+
+/*profile pic section*/
+
+.g-profile-pic-text {
+  font-size: 0.9rem;
+}
+
+.navbar {
+  padding: 0.98rem 0.5rem;
+}
+
+.navbar-toggler-icon {
+  font-size: 16px;
+}
+
+.container-fluid.g-menu-links {
+  width: 85%;
+}
+
+.g-menu-links > ul {
+  display: flex;
+  flex-flow: row;
+}
+
+.nav-link {
+  font-size: 0.75rem;
+  font-weight: 400;
+}
+
+.g-profile-text-container {
+  margin-right: 0.5rem;
+}
+
+.g-userprofile {
+  height: 40px;
+}
+
+.g-profile-pic-text {
+  font-size: 0.75rem;
+  color: rgb(0, 0, 0) !important;
+  font-weight: 400;
+}
+
+.g-profile-logout {
+  color: rgb(230, 100, 37);
+  font-size: 0.75rem;
+}
+
+.g-profile-logout:hover {
+  color: rgb(230, 100, 37);
+}
+
+@media (max-width: 350px) {
+  .g-userprofile {
+    display: none;
+  }
+
+  .nav-link {
+    font-size: 0.6rem;
+  }
+
+  .g-profile-pic-text {
+    font-size: 0.7rem;
+  }
+
+  .g-profile-logout {
+    font-size: 0.7rem;
+  }
+}
+
+@media (min-width: 769px) {
+  /*main appNav*/
+  .navbar {
+    padding: 0.98rem 1rem;
+  }
+
+  .navbar-toggler-icon {
+    font-size: 22px;
+  }
+
+  .container-fluid.g-menu-links {
+    width: 100%;
+  }
+
+  .navbar-expand-sm .navbar-nav .nav-item {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+  .nav-link {
+    font-size: 0.8rem;
+    font-weight: 400;
+  }
+
+  .g-profile-text-container {
+    margin-right: 1rem;
+  }
+
+  .g-userprofile {
+    height: 50px;
+  }
+
+  .g-profile-pic-text {
+    font-size: 0.9rem;
+  }
+
+  .g-profile-logout {
+    font-size: 0.8rem;
+  }
+}

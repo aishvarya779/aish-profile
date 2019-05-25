@@ -31,3 +31,24 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: rgb(239, 240, 241);
+  overflow-x: hidden;
+}
+
+.g-orange-color {
+  color: rgb(230, 100, 37);
+}
+
+.g-brown-color {
+  color: rgb(115, 67, 25);
+}
+
+.btn-brown {
+  background-color: rgb(115, 67, 25) !important;
+}
+
+.btn-warning {
+  background-color: rgb(230, 100, 37) !important;
+}
