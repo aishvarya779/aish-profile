@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 
 const Dashboard = () => {
   useEffect(() => {
-    document.title = 'React-App ' + 'Dashboard';
+    document.title = 'React-App Dashboard';
   });
   return (
     <div>

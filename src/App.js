@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import Layout from './common/Layout';
 import { Switch, Route, Redirect } from 'react-router-dom';
@@ -19,7 +19,7 @@ class App extends Component {
           <Route path="/projects" component={Projects} />
           <Route path="/skills" component={Skills} />
           <Route component={NotFound} />
-          {/* <Redirect to="/" /> */}
+          <Redirect to="/" />
         </Switch>
       </Layout>
     );

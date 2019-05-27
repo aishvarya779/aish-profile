@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 
 const Profile = () => {
   useEffect(() => {
-    document.title = 'React-App ' + 'Profile';
+    document.title = 'React-App  Profile';
   });
   return (
     <div>

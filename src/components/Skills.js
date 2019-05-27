@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 
 const Skills = () => {
   useEffect(() => {
-    document.title = 'React-App ' + 'Skills';
+    document.title = 'React-App Skills';
   });
   return (
     <div>
