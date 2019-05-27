@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df26b0ec229e2c5f4216c727bd190dfc",
+    "revision": "3772ec7076ee3d971871f6ea377e6841",
     "url": "/aish-profile/index.html"
   },
   {
-    "revision": "3f92bab1ad5d0d12cb14",
+    "revision": "07127cb0094b935fa559",
     "url": "/aish-profile/static/css/2.c30554d6.chunk.css"
   },
   {
-    "revision": "a677f44a4c666f0eb056",
-    "url": "/aish-profile/static/css/main.62d8bdd8.chunk.css"
+    "revision": "b823275e11aafb896173",
+    "url": "/aish-profile/static/css/main.5bbcbc17.chunk.css"
   },
   {
-    "revision": "3f92bab1ad5d0d12cb14",
-    "url": "/aish-profile/static/js/2.3d911e9e.chunk.js"
+    "revision": "07127cb0094b935fa559",
+    "url": "/aish-profile/static/js/2.ba412230.chunk.js"
   },
   {
-    "revision": "a677f44a4c666f0eb056",
-    "url": "/aish-profile/static/js/main.0e00e536.chunk.js"
+    "revision": "b823275e11aafb896173",
+    "url": "/aish-profile/static/js/main.d762e569.chunk.js"
   },
   {
     "revision": "38db89e8388a6c0027b0",
@@ -130,10 +130,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/aish-profile/static/media/fontawesome-webfont.fee66e71.woff"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/aish-profile/static/media/logo.5d5d9eef.svg"
   },
   {
     "revision": "3c2d5dae0f24df4fdff608581fc2a9e5",

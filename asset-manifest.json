@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/aish-profile/static/css/main.62d8bdd8.chunk.css",
-    "main.js": "/aish-profile/static/js/main.0e00e536.chunk.js",
-    "main.js.map": "/aish-profile/static/js/main.0e00e536.chunk.js.map",
+    "main.css": "/aish-profile/static/css/main.5bbcbc17.chunk.css",
+    "main.js": "/aish-profile/static/js/main.d762e569.chunk.js",
+    "main.js.map": "/aish-profile/static/js/main.d762e569.chunk.js.map",
     "runtime~main.js": "/aish-profile/static/js/runtime~main.b406e0bf.js",
     "runtime~main.js.map": "/aish-profile/static/js/runtime~main.b406e0bf.js.map",
     "static/css/2.c30554d6.chunk.css": "/aish-profile/static/css/2.c30554d6.chunk.css",
-    "static/js/2.3d911e9e.chunk.js": "/aish-profile/static/js/2.3d911e9e.chunk.js",
-    "static/js/2.3d911e9e.chunk.js.map": "/aish-profile/static/js/2.3d911e9e.chunk.js.map",
+    "static/js/2.ba412230.chunk.js": "/aish-profile/static/js/2.ba412230.chunk.js",
+    "static/js/2.ba412230.chunk.js.map": "/aish-profile/static/js/2.ba412230.chunk.js.map",
     "index.html": "/aish-profile/index.html",
-    "precache-manifest.414ece49b73ac343e18ff31e1aabefc6.js": "/aish-profile/precache-manifest.414ece49b73ac343e18ff31e1aabefc6.js",
+    "precache-manifest.d479d6e1d1431d5b164161ebb70da5e4.js": "/aish-profile/precache-manifest.d479d6e1d1431d5b164161ebb70da5e4.js",
     "service-worker.js": "/aish-profile/service-worker.js",
     "static/css/2.c30554d6.chunk.css.map": "/aish-profile/static/css/2.c30554d6.chunk.css.map",
-    "static/css/main.62d8bdd8.chunk.css.map": "/aish-profile/static/css/main.62d8bdd8.chunk.css.map",
+    "static/css/main.5bbcbc17.chunk.css.map": "/aish-profile/static/css/main.5bbcbc17.chunk.css.map",
     "static/media/mdb.css": "/aish-profile/static/media/arrow_right.8ef6a08c.svg",
     "static/media/font-awesome.min.css": "/aish-profile/static/media/fontawesome-webfont.fee66e71.woff",
-    "static/media/logo.svg": "/aish-profile/static/media/logo.5d5d9eef.svg",
     "static/media/user.png": "/aish-profile/static/media/user.3c2d5dae.png"
   }
 }
