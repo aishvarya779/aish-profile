@@ -4,8 +4,10 @@ import './App.css';
 import Layout from './common/Layout';
 import { Switch, Route, Redirect } from 'react-router-dom';
 import Dashboard from './components/Dashboard';
-import Prfoile from './components/Profile';
+import Profile from './components/Profile';
 import Projects from './components/Projects';
+import Skills from './components/Skills';
+import NotFound from './components/NotFound';
 
 class App extends Component {
   render() {
@@ -13,9 +15,11 @@ class App extends Component {
       <Layout>
         <Switch>
           <Route path="/" exact component={Dashboard} />
-          <Route path="/profile" component={Prfoile} />
+          <Route path="/profile" component={Profile} />
           <Route path="/projects" component={Projects} />
-          <Redirect to="/" />
+          <Route path="/skills" component={Skills} />
+          <Route component={NotFound} />
+          {/* <Redirect to="/" /> */}
         </Switch>
       </Layout>
     );

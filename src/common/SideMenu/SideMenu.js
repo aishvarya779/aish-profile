@@ -29,6 +29,14 @@ const SideMenu = () => {
             </NavLink>
           </li>
           <li>
+            <NavLink exact className="pt-2 d-block" to="/skills">
+              <span className="mr-3">
+                <i className="fa fa-users" />
+              </span>
+              <span className="text-capitalize">Skills</span>
+            </NavLink>
+          </li>
+          <li>
             <NavLink exact className="pt-2 d-block" to="/projects">
               <span className="mr-3">
                 <i className="fa fa-address-card" />
@@ -37,7 +45,7 @@ const SideMenu = () => {
             </NavLink>
           </li>
           <li>
-            <NavLink exact className="pt-2 d-block" to="/projects">
+            <NavLink exact className="pt-2 d-block" to="/story">
               <span className="mr-3">
                 <i className="fa fa-address-card" />
               </span>
