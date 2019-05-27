@@ -2,10 +2,12 @@
   "name": "aish-profile",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://aishvarya779.github.io/aish-profile",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.8.2",
     "bootstrap": "^4.3.1",
     "font-awesome": "^4.7.0",
+    "gh-pages": "^2.0.1",
     "mdbreact": "^4.14.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -16,7 +18,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

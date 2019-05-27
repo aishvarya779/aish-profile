@@ -10,8 +10,8 @@ const MainMenu = props => {
           <div onClick={props.toggleSideMenu}>
             <span className="navbar-toggler-icon" />
           </div>
-          <div className="container-fluid g-menu-links">
-            <ul className="navbar-nav mr-auto">
+          <div className="container-fluid g-menu-links justify-content-end">
+            {/* <ul className="navbar-nav mr-auto">
               <li className="nav-item">
                 <NavLink className="nav-link text-uppercase" to="/" exact>
                   kenya
@@ -22,7 +22,7 @@ const MainMenu = props => {
                   uganda
                 </NavLink>
               </li>
-            </ul>
+            </ul> */}
 
             <ul className="navbar-nav">
               <li>

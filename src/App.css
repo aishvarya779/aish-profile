@@ -52,3 +52,11 @@ body {
 .btn-warning {
   background-color: rgb(230, 100, 37) !important;
 }
+.a-primary {
+  background-color: #28d17c;
+  /*  rgba(40,209,124,1) */
+}
+.a-secondry {
+  background-color: #8349f5;
+  /* rgba(131,73,245,1) */
+}
